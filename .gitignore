@@ -1,7 +1,7 @@
 # Maven build artifacts
 target/
 *.class
-*.jar
+target/**/*.jar
 
 # IDE files
 .idea/
